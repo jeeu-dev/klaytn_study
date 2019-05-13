@@ -107,4 +107,7 @@
   - Wallet
   - Scope
 - Klaytn Wallet & 계정관리
-  - 
+  - [https://baobab.klaytnwallet.com](https://baobab.klaytnwallet.com/)
+- Klaytn IDE & 스마트 계약1
+  - http://ide.klaytn.com/
+- 
