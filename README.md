@@ -110,4 +110,8 @@
   - [https://baobab.klaytnwallet.com](https://baobab.klaytnwallet.com/)
 - Klaytn IDE & 스마트 계약1
   - http://ide.klaytn.com/
+- Klaytn Scope
+  - https://baobab.klaytnscope.com/
+- https://truffleframework.com/boxes
+- https://code.visualstudio.com/
 - 
